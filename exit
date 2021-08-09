@@ -1,0 +1,15 @@
+[33mdfa1820[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge branch 'main' of https://github.com/DanteHPVzla/recetitas-sveltekit ui design and recipe / profile added
+[33m7b251d5[m Profile and recipe card
+[33mea1ca82[m Usuarios activos/cerrar sesion nav
+[33m93e12dd[m register responsive - despues del pull
+[33mc2001a9[m register responsive
+[33maae3e4e[m Ultimo commit
+[33m2b11801[m Store(vacio) y modificaciones al index
+[33mf8290ea[m Registro terminado
+[33ma32dda1[m cambios
+[33m77f934b[m Recipe editado
+[33mce84a63[m new navbar (not responsive, mobile only)
+[33m29d515d[m Registro Terminado
+[33m777a35d[m Cambios al nav
+[33m0a1c667[m Co-authored-by: DanteHPVzla <DanteHPVzla@users.noreply.github.com>
+[33m161172f[m First Commit - firebase + Sass
